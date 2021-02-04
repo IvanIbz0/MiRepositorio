@@ -10,5 +10,6 @@ public class MiClase {
 	{
 		System.out.println("Otro metodo");
 		System.out.println("otra cosa");
+		System.out.println("Esto es otra modificación.");
 	}
 }
