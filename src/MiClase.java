@@ -9,5 +9,6 @@ public class MiClase {
 	private static void otroMetodo()
 	{
 		System.out.println("Otro metodo");
+		System.out.println("otra cosa");
 	}
 }
